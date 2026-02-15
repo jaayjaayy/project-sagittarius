@@ -31,10 +31,11 @@ The methodology identified several high-scoring candidates within the signal con
 ## Research Documentation
 The foundational logic for **Project Sagittarius** is contained within the following technical files:
 
-1.  **[Abstract](./Project_Sagittarius_Abstract.docx)** – High-level goals and "Cold Case" reframing.
-2.  **[Scientific Validity Statement](./Scientific_Validity_Statement.docx)** – Technical justification of the astrometric methods.
-3.  **[Candidate Ranking Matrix](./Candidate_Ranking_Matrix.docx)** – Detailed 0–5 scoring breakdown for each star.
-4.  **[Candidate Stars Table](./FINAL_Project_Sagittarius_.docx)** – Full astrophysical metadata for the search pool.
+1.  **[Full Research Paper](./Final%20Project.md)** – The comprehensive study and forensic analysis.
+2.  **[Abstract](./Abstract.md)** – High-level goals and "Cold Case" reframing.
+3.  **[Scientific Validity Statement](./Scientific%20Validity%20Statement.md)** – Technical justification of the astrometric methods.
+4.  **[Candidate Ranking Matrix](./Candidate%20Ranking%20Matrix.md)** – Detailed 0–5 scoring breakdown for each star.
+5.  **[Candidate Stars Table](./Candidate%20Stars%20Table.md)** – Full astrophysical metadata for the search pool.
 
 ---
 
