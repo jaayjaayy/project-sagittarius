@@ -15,9 +15,9 @@ Each of the four candidate stars identified within the Wow! Signal cone was eval
 
 | Star ID | 📍 | 🪐 | 🌞 | 🌎 | 📈 | 📡 | 🧬 | ⭐ Total |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Gaia DR3 ...5000** | 5 | 5 | 5 | 5 | 3 | 3 | 4 | **30** |
-| **Gaia DR3 ...0123** | 5 | 5 | 5 | 1 | 5 | 5 | 4 | **30** |
-| **Gaia DR3 ...0456** | 5 | 5 | 5 | 1 | 5 | 4 | 5 | **30** |
-| **Gaia DR3 ...0789** | 5 | 5 | 4 | 3 | 4 | 5 | 3 | **29** |
+| **Gaia DR3 6765857965600060288** | 5 | 5 | 5 | 2 | 5 | 5 | 4 | **31** |
+| Gaia DR3 6765857965600060416 | 5 | 5 | 5 | 2 | 4 | 4 | 4 | **29** |
+| Gaia DR3 6765861019327924736 | 4 | 4 | 5 | 2 | 4 | 4 | 4 | **27** |
+| Gaia DR3 6765662080732001664 | 3 | 3 | 3 | 2 | 3 | 3 | 4 | **21** |
 
-> **Hard Truth:** While three candidates achieved a score of 30, the **G8V star (...5000)** is the standout. The presence of a confirmed rocky planet outweighs its moderate variability, making it the highest-priority "cold case" target.
+> **Hard Truth:** The K-type Orange Dwarf (**...0288**) is the definitive winner of the 1702 Reconstruction. Its spatial offset of only 0.002 degrees from the Wow! Signal center during the estimated transmission era makes it the most mathematically viable origin point in this dataset.
