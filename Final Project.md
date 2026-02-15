@@ -45,7 +45,7 @@ Unlike previous studies that looked at modern-day star positions, *Project Sagit
 The identification of a K-type dwarf with a 0.002° spatial match in the 1702 window suggests that the Wow! Signal may not have been a random anomaly, but a "missed connection" from a stable stellar system. This project demonstrates that by treating astronomical mysteries as cold-case reconstructions, we can move from speculative theories to high-precision targets.
 
 **Future phases will involve:**
-* Expanding **backward stellar motion** models to cover a wider 150-year temporal window (1700–1850 CE).
+* Expanding **backward stellar motion** models to cover a wider 150-year temporal window (1700–1850 CE). 
 * Modeling **Earth’s position** in the sky of candidate systems to assess visibility.
 * Developing **AI-assisted probability models** for beacon pattern matching.
 
