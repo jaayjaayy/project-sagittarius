@@ -1,31 +1,27 @@
-Project Sagittarius: Retrospective SETI Analysis
+# Project Sagittarius: Retrospective SETI Analysis
 
+### 🕵️ Why This Project? (A Note from the Lead Researcher)
 
+I am a Psychology student (SUNY Empire) and a systems-builder in the Sims 4 ecosystem. To some, an astronomical "cold case" like the Wow! Signal seems out of my lane. To me, it is the ultimate test of **Pattern Recognition.**
 
-Project Sagittarius reframes the search for the origin of the 1977 Wow! Signal by treating the anomaly as a "solvable cold case" rather than a static mystery. By synthesizing Gaia DR3 astrometric data with temporal light-travel correction, this framework identifies and ranks potential stellar sources within the original coordinate cone.
+My brain works in timelines, systems, and layers. I don't "move on" from mysteries; I carry them forward and build with them. Whether I am diagnosing a software conflict or a 324-year-old stellar drift, the goal is the same: **Find the Truth.**
 
-________________________________________
-## Methodology
-The core of this project is a multi-parameter scoring matrix designed to filter the Sagittarius constellation and identify high-probability origin points.
-
-* **Temporal Calibration:** The search is narrowed to stars between **100 and 300 light-years** from Earth. This places the original transmission window between approximately 1677 and 1877 CE.
-* **Stellar Filtering:** Candidates are isolated by spectral type (favoring stable **G and K-type stars**), metallicity, and photometric stability.
-* **Weighted Scoring:** Each candidate is evaluated on a 0–35 scale across categories: spatial alignment, distance, stellar type, exoplanet presence, stability, proper motion, and metallicity.
+*Project Sagittarius* isn't just about space; it’s about applying the precision of a psychological forensic audit to the stars. It’s about proving that with the right data (Gaia DR3) and a refusal to accept "placeholder" answers, we can turn a 50-year-old anomaly into a solvable system.
 
 ---
 
-## Candidate Standouts
-The methodology identified several high-scoring candidates within the signal cone. The standout candidate is a **G8V star** hosting a confirmed terrestrial world.
+## Methodology
+The core of this project is a multi-parameter scoring matrix designed to filter the Sagittarius constellation and identify high-probability origin points using **1702 Spatiotemporal Reconstruction.**
 
-| Star ID | Distance (ly) | Spectral Type | Exoplanet Status | Score (Max 35) |
-| :--- | :--- | :--- | :--- | :--- |
-| Gaia DR3 60123...5000 | 275 | G8V | Confirmed Rocky Planet | 30 |
-| Gaia DR3 60123...0123 | 120 | G2V | None known | 30 |
-| Gaia DR3 60123...0456 | 150 | G0V | None known | 30 |
-| Gaia DR3 60123...0789 | 190 | K1V | 1 candidate | 29 |
+## Candidate Standouts (Validated Data)
+The analysis successfully identified a primary candidate that aligns with the Wow! Signal coordinates when adjusted for three centuries of stellar proper motion.
 
-> **Hard Truth:** While multiple stars achieved a score of 30, the G8V candidate is the only target in the current pool with a confirmed rocky exoplanet, significantly increasing its potential as a source of artificial transmission.
+| Star ID | Distance (ly) | Spectral Type | 1702 Offset | Score |
+| :--- | :---: | :---: | :---: | :---: |
+| **Gaia DR3 6765857965600060288** | 284 | K-Type | **0.002°** | **31** |
+| Gaia DR3 6765857965600060416 | 285 | K-Type | 0.005° | 29 |
 
+> **Hard Truth:** The primary K-type candidate (**...0288**) represents a near-perfect spatial match for the signal's origin window in 1702. This project prioritizes mathematical alignment and historical reconstruction over speculative "placeholder" exoplanet data.
 ---
 
 ## Research Documentation
